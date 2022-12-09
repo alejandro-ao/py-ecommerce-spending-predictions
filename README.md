@@ -10,5 +10,3 @@ In this project we work with a dataset [available on Kaggle](https://www.kaggle.
 - Time on Website: Average time spent on Website in minutes
 - Length of Membership: How many years the customer has been a member.
 Note that all the personal information is not real.
-
-_Disclaimer: this is a modified version of a project included in the [Python for Data Science Bootcamp by Jose Portilla](https://www.pieriandata.com)_
